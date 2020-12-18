@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/03/25 14:48:34.000.568,=C:\Users\Shin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/25 15:16:02.000.693,C:\Users\Shin\Documents\Embarcadero\Studio\Projects\シューティングゲーム\main.fmx=C:\Users\Shin\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2018/03/25 15:16:02.000.693,C:\Users\Shin\Documents\Embarcadero\Studio\Projects\シューティングゲーム\main.pas=C:\Users\Shin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/25 15:16:12.000.106,C:\Users\Shin\Documents\Embarcadero\Studio\Projects\シューティングゲーム\game.dproj=C:\Users\Shin\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
